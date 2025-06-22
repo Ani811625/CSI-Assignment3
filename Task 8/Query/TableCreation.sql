@@ -1,0 +1,4 @@
+CREATE TABLE OCCUPATIONS (
+    Name VARCHAR(100),
+    Occupation VARCHAR(50)
+);
