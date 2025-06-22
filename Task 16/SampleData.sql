@@ -1,0 +1,1 @@
+INSERT INTO SwapTest VALUES (1, 5, 10);
